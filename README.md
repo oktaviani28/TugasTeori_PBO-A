@@ -1,10 +1,13 @@
 # TugasTeori_PBO-A
+
 **Membuat Class Pecahan dan Matrik**
+
 Buatlah class Pecahan yang terdapat operasi:
 - penjumlahan
 - pengurangan
 - perkalian
 - pembagian
+
 Kemudian class Matrik yang elemennya Pecahan dengan operasi:
 - penjumlahan matrik
 - pengurangan matri
