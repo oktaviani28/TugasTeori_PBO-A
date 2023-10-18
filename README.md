@@ -13,5 +13,5 @@ Kemudian class Matrik yang elemennya Pecahan dengan operasi:
 - inverse matrik
 
 # Hasil Running Program 
-<img width="960" alt="image" src="https://github.com/oktaviani28/TugasTeori_PBO-A/assets/113764908/abf74999-e1ee-4496-9564-0aea6f9945f3">
-<img width="960" alt="image" src="https://github.com/oktaviani28/TugasTeori_PBO-A/assets/113764908/365108de-e634-40c0-bcda-9c2cf1389394">
+<img width="800" alt="image" src="https://github.com/oktaviani28/TugasTeori_PBO-A/assets/113764908/abf74999-e1ee-4496-9564-0aea6f9945f3">
+<img width="800" alt="image" src="https://github.com/oktaviani28/TugasTeori_PBO-A/assets/113764908/365108de-e634-40c0-bcda-9c2cf1389394">
